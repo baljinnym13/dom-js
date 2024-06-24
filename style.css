@@ -1,0 +1,14 @@
+#main {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  justify-self: center;
+  align-items: center;
+}
+
+.box {
+  width: 400px;
+  height: 400px;
+
+  background-color: violet;
+}
